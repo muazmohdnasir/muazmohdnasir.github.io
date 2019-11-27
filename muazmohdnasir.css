@@ -1,0 +1,29 @@
+html{
+    height: 100%;
+}
+
+.navbar-default {
+    /* background-color: blanchedalmond; */
+}
+
+body{
+    /* Credit to Isaac Benhesed for the picture https://unsplash.com/photos/onLbXleIkds  */
+    /* background: url(https://images.unsplash.com/photo-1493606278519-11aa9f86e40a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+    background-size: cover;
+    background-position: center; */
+    font-family: 'Poppins', sans-serif;
+}
+
+#content{
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 25%;
+    text-shadow: 0px 2px 5px whitesmoke,
+                 0px 4px 7px black;
+}
+
+#content .fa-mug-hot{
+    /* font-size: 5em; */
+    font-size: 25vw;
+    text-align: center;
+}
